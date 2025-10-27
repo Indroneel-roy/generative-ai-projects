@@ -9,15 +9,15 @@ This project is a Streamlit web application that generates LinkedIn posts using 
 
 
 ## Features
-* Topic-Based Generation: Create posts based on a wide range of topics (e.g., "Motivation," "Jobs," "Career").
+* **Topic-Based Generation:** Create posts based on a wide range of topics (e.g., "Motivation," "Jobs," "Career").
 
-* Style Adaptation: Uses few-shot examples to guide the LLM, resulting in posts that match a desired style.
+* **Style Adaptation:** Uses few-shot examples to guide the LLM, resulting in posts that match a desired style.
 
-* Customizable Output: Control the Length ("Short," "Medium," "Long") and Language ("English," "Banglish") of the generated post.
+* **Customizable Output:** Control the Length ("Short," "Medium," "Long") and Language ("English," "Banglish") of the generated post.
 
-* Data Processing Pipeline: Includes a complete pipeline to ingest raw posts, extract metadata using an LLM, and clean the data for use.
+* **Data Processing Pipeline:** Includes a complete pipeline to ingest raw posts, extract metadata using an LLM, and clean the data for use.
 
-* Simple Web UI: Built with Streamlit for easy interaction.
+* **Simple Web UI:** Built with Streamlit for easy interaction.
 
 ## 🛠️ How It Works: The Data & Generation Pipeline
 The project is split into two main parts: the data processing pipeline (to build the example dataset) and the generation app (to create new posts).
@@ -99,6 +99,7 @@ When the "Generate" button is pressed, it calls generate_post() and displays the
 ## Authors
 
 - [@Indroneel](https://github.com/Indroneel-roy)
+
 
 
 
