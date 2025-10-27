@@ -5,7 +5,7 @@ This project is a Streamlit web application that generates LinkedIn posts using 
 
 
 ## Demo
-https://github.com/Indroneel-roy/generative-ai-projects/blob/main/GenLinkAI/git.png
+![app-screenshot](https://github.com/Indroneel-roy/generative-ai-projects/blob/main/GenLinkAI/git.png)
 
 
 ## Features
@@ -99,6 +99,7 @@ When the "Generate" button is pressed, it calls generate_post() and displays the
 ## Authors
 
 - [@Indroneel](https://github.com/Indroneel-roy)
+
 
 
 
